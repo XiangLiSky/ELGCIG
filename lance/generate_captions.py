@@ -33,7 +33,7 @@ class CaptionGenerator:
             device: torch.device,
             verbose: bool = False,
             name: Optional[str] = "gpt4_vision",
-            api_key: str = "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",
+            api_key: str = "",
             model_type: Optional[str] = "gpt-4o",
             repetition_penalty=1.0,
             min_caption_length=20,
