@@ -1,7 +1,7 @@
 # ELGCIG
 Enhanced Language Guided Counterfactual Image Generation
 
-#Checkpoint Download
+# Checkpoint Download
 Download `\checkpoints` from https://huggingface.co/datasets/LANCE-release/checkpoints
 
 # Env Install
