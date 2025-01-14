@@ -1,6 +1,9 @@
 # ELGCIG
 Enhanced Language Guided Counterfactual Image Generation
 
+#Checkpoint Download
+Download `\checkpoints` from https://huggingface.co/datasets/LANCE-release/checkpoints
+
 # Env Install
 ```
 conda env export  -n [env name] > ELGCIG.yaml
