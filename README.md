@@ -2,7 +2,7 @@
 Enhanced Language Guided Counterfactual Image Generation
 
 # Env Install
-conda env export  -n [env name] > ELGCIG.yaml
+conda env export  -n [env name] > ELGCIG.yaml or check the requirement.txt
 
 # GPT API Key Input
 Go to /lance/generate_captions.py and find class CaptionGenerator input your api key in api_key: str = "[api key]"
