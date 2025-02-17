@@ -6,7 +6,7 @@ Download `\checkpoints` from https://huggingface.co/datasets/LANCE-release/check
 
 # Env Install
 ```
-conda env export  -n [env name] > ELGCIG.yaml
+conda env create  -n [env name] -f ELGCIG.yaml
 ```
 or check the requirement.txt
 
